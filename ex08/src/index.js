@@ -4,7 +4,7 @@ function funcWithArg(digit) {
     total = (digit + 9) / 5;
     return total;
 }
-funcWithArg(6);
+total = funcWithArg(6);
 
 
 
